@@ -1,0 +1,15 @@
+body {
+  background: #222222;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+#map {
+  width: 70%;
+  height: 400px;
+  background: #eeeeee;
+}
